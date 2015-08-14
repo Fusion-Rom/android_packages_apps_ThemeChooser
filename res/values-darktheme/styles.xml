@@ -22,6 +22,7 @@
         <item name="android:colorPrimaryDark">@color/primary_dark</item>
         <item name="android:colorAccent">@color/accent</item>
         <item name="android:statusBarColor">@color/primary_dark</item>
+        <item name="android:navigationBarColor">@*android:color/material_blue_grey</item>
         <item name="android:textColorPrimary">@color/primary_text_color</item>
         <item name="android:actionMenuTextColor">@android:color/white</item>
     </style>
